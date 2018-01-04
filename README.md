@@ -6,4 +6,4 @@
 * 2
 * 3
 
-[链接](www.baidu.com)
+[链接](https://github.com/zhangxiaogeng7/blog/issues/1)
