@@ -1,6 +1,6 @@
 module.exports = {
     title: '前端文档',
-    // base: './',
+    base: './blog',
     description: '',
     dest: 'public',
     themeConfig: {
