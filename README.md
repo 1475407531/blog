@@ -1,11 +1,14 @@
 # 晓耕的博客
+## 项目基于vuepress编写相关前端文档
 
-## 基础内容
+## 如何加入？
 
-* 1
-* 2
-* 3
-* 4
+```bash
+# 安装依赖
+npm install
 
+# 本地编辑文档
+npm run dev
+```
 
 [链接](https://github.com/zhangxiaogeng7/blog/issues/1)

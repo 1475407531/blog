@@ -1,0 +1,14 @@
+{
+	"name": "blog",
+	"version": "1.0.0",
+	"description": "前端知识总结",
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:build": "vuepress build docs"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"vuepress": "^1.7.1"
+	}
+}
