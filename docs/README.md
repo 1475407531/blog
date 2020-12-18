@@ -1,3 +1,8 @@
+---
+home: true
+heroText: 前端知识文档
+tagline: welcome my blog
+---
 ## 索引
 
 ### 必备技能
